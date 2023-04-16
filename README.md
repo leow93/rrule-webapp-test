@@ -26,7 +26,7 @@ cd fsharp
 dotnet run --project=.
 ```
 
-# Goland
+## Golang
 ```shell
 cd golang
 go run main.go
